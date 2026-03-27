@@ -1,2 +1,3 @@
-# oss1
-**Arahashi Tabi is my wife!**
+# OSS
+
+OpenSource SW Design.
